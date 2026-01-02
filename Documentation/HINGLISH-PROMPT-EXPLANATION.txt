@@ -1,0 +1,11 @@
+Hinglish Prompt Engineering Explanation:
+
+The prompt achieves authentic Hinglish by combining structural constraints with cultural linguistic patterns. 
+First, it enforces phonetic spelling to guide pronunciation. 
+Second, it mandates code-switching patterns—English sentences ending with Hindi tags like "hai na?"
+ and "yaarrr"—mimicking natural Indian speech. 
+Third, it includes one-shot learning with a concrete example demonstrating the desired style. 
+Fourth, it specifies character personas (Mumbai energy, South Bombay curiosity) to create distinct voices. 
+Finally, it requires conversational elements (fillers, interruptions, bracketed emotions) to prevent robotic output. 
+The combination of explicit rules, examples, and cultural markers trains the LLM to generate natural Hinglish dialogue 
+rather than formal translations.
