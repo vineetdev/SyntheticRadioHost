@@ -175,10 +175,12 @@ RADIO-HOST/
 ├── test_syntheticRadioHostScript.py # Test suite (45 tests)
 ├── README.md                       # This file
 ├── .env.example                    # Environment variables template
+├── requirements.txt                # Main dependencies
+├── requirements-test.txt           # Test dependencies
 │
 ├── Documentation/
-│   ├── Hinglish_Prompt_Explanation.md
-│   ├── TEST_PLAN.md
+│   ├── Hinglish_Prompt_Explanation.txt
+│   ├── DESIGN_DOCUMENATION.md
 │   ├── Test_Cases_Document
 |   └── Technical_Design_Document_SyntheticRadioHost
 ```
