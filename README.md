@@ -21,7 +21,7 @@ The system leverages cutting-edge AI technologies:
 
 ```
 ┌─────────────┐     ┌──────────────┐     ┌─────────────┐     ┌──────────────┐
-│  Wikipedia  │────▶│  Ollama LLM  │────▶│   Script    │────▶│ ElevenLabs   │
+│  Wikipedia  │───▶│  Ollama LLM  │────▶│   Script    │───▶│ ElevenLabs   │
 │   Context   │     │   (llama3.2) │     │   Parser    │     │   TTS API    │
 └─────────────┘     └──────────────┘     └─────────────┘     └──────────────┘
                                                                     │
